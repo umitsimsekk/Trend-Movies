@@ -2,7 +2,7 @@
 
 Products     |  Product Details
 :-------------------------:|:-------------------------:
-<img alt="Products List" src="Screenshots/Movies.png">|<img alt="Products list" src="Screenshots/Details.png">
+<img alt="Products List" src="Screenshot/Movies.png">|<img alt="Products list" src="Screenshots/Details.png">
 
 ## Characteristics
 
