@@ -13,7 +13,8 @@ final class Constant {
     
     public var apiKey : String {
         get {
-            return "669278251f2136ea7f3e883cabe99ea9"
+            //api key
+            return ""
         }
     }
     
